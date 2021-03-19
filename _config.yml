@@ -14,9 +14,9 @@ url: "https://curlme.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username:
-facebook_username: 
-github_username:  
+twitter_username: test
+facebook_username: test
+github_username: test
 email: 
 linkedIn_username: 
 dribbble_username:
